@@ -22,7 +22,7 @@ Firstly Downloaded Dataset consisting of twitter tweets with the name of "tweet.
 ## Results 
 
 Profanity score of each line is calculated with this formula : (Total number of abusive words / length of the tweet) .
-A csv file is generated with the degree of profanity score for each tweet in the range of 0 to 1 , where 0 indicates that the tweets are normal and as we go towards 1 there are some racial slur present in the tweet.
+A csv file named "profanity-score.csv" is generated with the degree of profanity score for each tweet in the range of 0 to 1 , where 0 indicates that the tweets are normal and as we go towards 1 there are some racial slur present in the tweet.
 
 ## Author
 
